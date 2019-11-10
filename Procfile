@@ -1,1 +1,1 @@
-web: node src/server.js
+web: yarn nodemon src/server.js
