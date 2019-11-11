@@ -40,8 +40,7 @@ class MessageController {
   async storeNumber(req, res) {
     const schema = Yup.object().shape({
       message: Yup.string()
-        .required()
-        .max(255),
+        .required(),
     });
 
     if (!(await schema.isValid(req.body))) {

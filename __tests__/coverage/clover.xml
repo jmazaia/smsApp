@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1573348309227" clover="3.2.0">
-  <project timestamp="1573348309227" name="All files">
+<coverage generated="1573449991669" clover="3.2.0">
+  <project timestamp="1573449991671" name="All files">
     <metrics statements="88" coveredstatements="87" conditionals="36" coveredconditionals="29" methods="11" coveredmethods="11" elements="135" coveredelements="127" complexity="0" loc="88" ncloc="88" packages="3" files="4" classes="4"/>
     <package name="controllers">
       <metrics statements="25" coveredstatements="24" conditionals="18" coveredconditionals="12" methods="6" coveredmethods="6"/>
@@ -24,13 +24,13 @@
         <line num="32" count="5" type="stmt"/>
         <line num="37" count="5" type="stmt"/>
         <line num="41" count="3" type="stmt"/>
-        <line num="47" count="3" type="cond" truecount="2" falsecount="0"/>
-        <line num="48" count="1" type="stmt"/>
-        <line num="51" count="2" type="stmt"/>
-        <line num="54" count="2" type="stmt"/>
-        <line num="56" count="2" type="stmt"/>
-        <line num="61" count="2" type="stmt"/>
-        <line num="65" count="1" type="stmt"/>
+        <line num="46" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
       </file>
     </package>
     <package name="schemas">
