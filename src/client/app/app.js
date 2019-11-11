@@ -40,7 +40,7 @@ SmsApp.controller('SmsController', ['$scope', '$http',
       $scope.error = '';
       const r = /^[a-zA-Z\u00C0-\u024F\u1E00-\u1EFF +]+$/;
       if (r.test($scope.messagestring) === false
-      && $scope.messagestring !== undefined) {
+      || $scope.messagestring === undefined) {
         $scope.error = 'Ops! Digite um texto válido';
       } else {
         $http.post('https://gswdesafio.herokuapp.com/messagestring',
