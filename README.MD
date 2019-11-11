@@ -44,6 +44,8 @@ NodeJS
 
 Yarn
 
+AngularJS (Angular1)
+
 MongoDB
 
 ### Author
