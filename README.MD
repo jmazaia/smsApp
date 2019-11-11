@@ -13,7 +13,7 @@ Package Manager Yarn.
 MongoDB funcionando na porta 27017.
 
 ### Instalando
-Você pode fazer o download do ZIP ou com o GIT basta digitar git clone https://github.com/jmazaia/backend-gsw.git no seu terminal
+Você pode fazer o download do ZIP ou com o GIT basta digitar git clone https://github.com/jmazaia/smsApp.git no seu terminal
 
 Após o download navegue até a pasta do projeto e digite
 
