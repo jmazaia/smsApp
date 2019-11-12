@@ -36,9 +36,11 @@ acesse http://localhost:3333
 Para realizar todos os testes unitários criados digite
 
 ```
-yarn test
+yarn test Para testes unitários NodeJS
 ```
-
+```
+yarn karma start Para testes unitários AngularJS
+```
 ### Desenvolvido usando as ferramentas 
 NodeJS
 
