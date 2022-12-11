@@ -16,7 +16,7 @@
     "dotenv": "^8.2.0",
     "eslint-config-airbnb-angular": "^1.0.0",
     "eslint-plugin-angular": "^4.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "git": "^0.1.5",
     "jasmine-core": "^3.5.0",
     "jsonwebtoken": "^8.5.1",
